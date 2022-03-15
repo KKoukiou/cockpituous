@@ -22,6 +22,7 @@ RUN dnf -y update && \
         lcov \
         libappstream-glib \
         libvirt-daemon-driver-qemu \
+        libvirt-daemon-driver-storage-core \
         libvirt-client \
         libvirt-python3 \
         libXt \
